@@ -1,0 +1,3 @@
+[submodule "tendermint-rs"]
+	path = tendermint-rs
+	url = git@github.com:cubicland/tendermint-rs
